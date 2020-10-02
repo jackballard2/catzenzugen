@@ -72,5 +72,13 @@ public class Cat {
 		//make tail
 		g2.setColor(Color.black);
 		g2.fillRect(125+175, 125-75, 25, 80);
+		
+		//add friend
+		g2.fillOval(10, 275, 25, 25);
+		g2.fillRect(15, 272, 5, 5);
+		g2.fillRect(25, 272, 5, 5);
+		g2.setColor(Color.green);
+		g2.fillOval(15, 281, 5,5);
+		g2.fillOval(25, 281, 5, 5);
 	}
 }
