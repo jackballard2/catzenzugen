@@ -69,6 +69,8 @@ public class Cat {
 		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
 		
 		
-		
+		//make tail
+		g2.setColor(Color.black);
+		g2.fillRect(125+175, 125-75, 25, 80);
 	}
 }
