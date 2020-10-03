@@ -1,0 +1,29 @@
+commit 53bbd12dda326ba2add7cb4031494e113717faf8
+Author: Joseph <jlovelace@mymail.mines.edu>
+Date:   Fri Oct 2 15:45:19 2020 -0600
+
+    changed friend to orange
+
+commit 82b47d9a801cb93036c4cea16b39d30161011b5c
+Author: Joseph <jlovelace@mymail.mines.edu>
+Date:   Fri Oct 2 15:38:40 2020 -0600
+
+    added friend
+
+commit 324512373bda8ff08418cbba634db33782799b0b
+Author: Joseph <jlovelace@mymail.mines.edu>
+Date:   Fri Oct 2 15:18:09 2020 -0600
+
+    added tail
+
+commit c15d205664463c44236dde56d1a95bf5fe1114a9
+Author: Jack <ballard@mymail.mines.edu>
+Date:   Fri Oct 2 12:59:24 2020 -0600
+
+    I added legs to the cat and a body to the cat
+
+commit 82c99a3de46341c7ba87c0b1f352352d879058cd
+Author: Jack <ballard@mymail.mines.edu>
+Date:   Tue Sep 29 18:20:44 2020 -0600
+
+    Just started

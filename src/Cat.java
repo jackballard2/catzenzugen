@@ -47,6 +47,14 @@ public class Cat {
 		g2.fillRect(125+150+5+15+15, 125+100+65, 10, 10);
 		g2.fillRect(125+5+15+15, 125+100+65, 10, 10);
 		
+		//draw the cat something i stole form online
+		g2.setColor(Color.red);
+		g2.fillRect(30,30,500,20);
+		g2.setColor(Color.cyan);
+		g2.drawString("I could put a lot of my political opions in this but instead im just going to make it really long", 50,50);
+		g2.setColor(Color.cyan);
+		g2.drawString("*Cat Noises**Cat Noises**Cat Noises**Cat Noises**Cat Noises*", 250,250);
+		
 		
 		// Draw the head
 		g2.setColor(Color.black);
@@ -69,6 +77,17 @@ public class Cat {
 		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
 		
 		
+		//make tail
+		g2.setColor(Color.black);
+		g2.fillRect(125+175, 125-75, 25, 80);
 		
+		//add friend
+		g2.setColor(Color.orange);
+		g2.fillOval(10, 275, 25, 25);
+		g2.fillRect(15, 272, 5, 5);
+		g2.fillRect(25, 272, 5, 5);
+		g2.setColor(Color.green);
+		g2.fillOval(15, 281, 5,5);
+		g2.fillOval(25, 281, 5, 5);
 	}
 }
